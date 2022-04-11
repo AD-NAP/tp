@@ -9,6 +9,16 @@ You can reach us at the email `shafik@u.nus.edu`
 
 ## Project team
 
+### Vishwanth
+
+<img src="images/vishwanth2210.png" width="200px">
+
+[[github](http://github.com/vishwanth2210)]
+[[portfolio](team/vishwanth2210.md)]
+
+* Role: Developer + Team Lead
+* Responsibilities: Dev Ops + Threading
+
 ### Kuan Jian Rong
 
 <img src="images/kuanjr.png" width="200px">
@@ -37,16 +47,6 @@ You can reach us at the email `shafik@u.nus.edu`
 
 * Role: Developer + Integration
 * Responsibilities: Data
-
-### Vishwanth
-
-<img src="images/vishwanth2210.png" width="200px">
-
-[[github](http://github.com/vishwanth2210)]
-[[portfolio](team/vishwanth2210.md)]
-
-* Role: Developer + Team Lead
-* Responsibilities: Dev Ops + Threading
 
 ### Wee Heng
 
